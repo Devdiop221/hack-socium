@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet est développé dans le cadre d'un hackathon organisé par Socium- [Socium](https://socium.link/) . Il utilise plusieurs bibliothèques Python pour l'anonymisation des documents, la labelisation des documents,le résumé des documents, et fournir une description des documents.
+Ce projet est développé dans le cadre d'un hackathon organisé par [Socium](https://socium.link/) . Il utilise plusieurs bibliothèques Python pour l'anonymisation des documents, la labelisation des documents,le résumé des documents, et fournir une description des documents.
 
 ## Prérequis
 
