@@ -1,4 +1,4 @@
-# Projet Hackathon LG-ETRG
+# Projet Hackathon LÉGION ETRANGÈRE
 
 ## Description
 
